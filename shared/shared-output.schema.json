@@ -1,0 +1,160 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Shared Agent Output Envelope",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "agent",
+    "status",
+    "decision",
+    "source_register",
+    "findings",
+    "actions",
+    "unresolved",
+    "approval"
+  ],
+  "properties": {
+    "agent": {
+      "type": "string"
+    },
+    "status": {
+      "enum": [
+        "draft_ready",
+        "requires_input",
+        "blocked_by_evidence",
+        "approval_required",
+        "complete"
+      ]
+    },
+    "decision": {
+      "type": "string"
+    },
+    "source_register": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "source_id",
+          "verification_state"
+        ],
+        "properties": {
+          "source_id": {
+            "type": "string"
+          },
+          "verification_state": {
+            "enum": [
+              "verified",
+              "unverified",
+              "contradicted",
+              "stale",
+              "missing"
+            ]
+          }
+        },
+        "additionalProperties": true
+      }
+    },
+    "findings": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "finding_id",
+          "statement",
+          "evidence_ids",
+          "confidence_basis"
+        ],
+        "properties": {
+          "finding_id": {
+            "type": "string"
+          },
+          "statement": {
+            "type": "string"
+          },
+          "evidence_ids": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "confidence_basis": {
+            "type": "string"
+          }
+        },
+        "additionalProperties": true
+      }
+    },
+    "actions": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "action_id",
+          "action",
+          "owner",
+          "due_date",
+          "verification",
+          "rollback",
+          "approval_state"
+        ],
+        "properties": {
+          "action_id": {
+            "type": "string"
+          },
+          "action": {
+            "type": "string"
+          },
+          "owner": {
+            "type": "string"
+          },
+          "due_date": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "verification": {
+            "type": "string"
+          },
+          "rollback": {
+            "type": "string"
+          },
+          "approval_state": {
+            "enum": [
+              "not_required",
+              "pending",
+              "approved",
+              "rejected"
+            ]
+          }
+        },
+        "additionalProperties": true
+      }
+    },
+    "unresolved": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "approval": {
+      "type": "object",
+      "required": [
+        "owner",
+        "external_actions_allowed"
+      ],
+      "properties": {
+        "owner": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "external_actions_allowed": {
+          "const": false
+        }
+      },
+      "additionalProperties": true
+    }
+  }
+}

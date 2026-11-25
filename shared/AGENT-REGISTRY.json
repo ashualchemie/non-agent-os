@@ -1,0 +1,306 @@
+[
+  {
+    "id": "01-customer-voice-objection",
+    "name": "Customer Voice & Objection Agent",
+    "description": "Turn supplied customer evidence into motivations, objections, exact language and messaging priorities.",
+    "path": "02-AGENTS/01-customer-voice-objection",
+    "version": "4.0.0",
+    "outputs": [
+      "Evidence register",
+      "Theme and objection matrix",
+      "Customer phrase bank",
+      "Segment implications",
+      "Messaging brief with limitations"
+    ],
+    "handoffs": [
+      "04-creative-strategist",
+      "08-product-page-merchandising",
+      "15-customer-care"
+    ]
+  },
+  {
+    "id": "02-competitor-tracker",
+    "name": "Competitor Tracker Agent",
+    "description": "Organize dated competitor observations into a change log and defensible positioning opportunities.",
+    "path": "02-AGENTS/02-competitor-tracker",
+    "version": "4.0.0",
+    "outputs": [
+      "Competitor evidence register",
+      "Offer and message comparison",
+      "Change log",
+      "Positioning opportunities",
+      "Next observation checklist"
+    ],
+    "handoffs": [
+      "03-winning-offers-bundles",
+      "04-creative-strategist",
+      "16-operator"
+    ]
+  },
+  {
+    "id": "03-winning-offers-bundles",
+    "name": "Winning Offers/Bundles Generator Agent",
+    "description": "Design offer and bundle scenarios that fit contribution margins, stock and customer motivations.",
+    "path": "02-AGENTS/03-winning-offers-bundles",
+    "version": "4.0.0",
+    "outputs": [
+      "Offer scenario table",
+      "Contribution worksheet",
+      "Selected offer and rationale",
+      "Stacking and eligibility rules",
+      "Implementation and stock checklist"
+    ],
+    "handoffs": [
+      "07-performance-marketing",
+      "10-email-sms-whatsapp-recovery",
+      "16-operator"
+    ]
+  },
+  {
+    "id": "04-creative-strategist",
+    "name": "Creative Strategist Agent",
+    "description": "Convert customer and competitor evidence into distinct concepts, angles and production briefs.",
+    "path": "02-AGENTS/04-creative-strategist",
+    "version": "4.0.0",
+    "outputs": [
+      "Concept matrix",
+      "Angle and hook map",
+      "Production briefs",
+      "Creative experiment cards",
+      "Learning register"
+    ],
+    "handoffs": [
+      "05-10roas-static-ad-generator",
+      "06-ugc-video",
+      "07-performance-marketing"
+    ]
+  },
+  {
+    "id": "05-10roas-static-ad-generator",
+    "name": "10ROAS Static Ad Generator Agent",
+    "description": "Prepare original product-specific static ad copy, composition plans and generation handoffs.",
+    "path": "02-AGENTS/05-10roas-static-ad-generator",
+    "version": "4.0.0",
+    "outputs": [
+      "Static ad copy pack",
+      "Composition brief",
+      "Image-generation prompt",
+      "Export specification",
+      "Asset and claim checklist"
+    ],
+    "handoffs": [
+      "07-performance-marketing",
+      "09-landing-pages-cro",
+      "16-operator"
+    ]
+  },
+  {
+    "id": "06-ugc-video",
+    "name": "UGC Video Agent",
+    "description": "Prepare hooks, scripts, timed storyboards, shot lists and video-model handoffs from supplied assets.",
+    "path": "02-AGENTS/06-ugc-video",
+    "version": "4.0.0",
+    "outputs": [
+      "Hook options",
+      "Timed script and storyboard",
+      "Shot list",
+      "Creator or video-model handoff",
+      "Edit and export checklist"
+    ],
+    "handoffs": [
+      "04-creative-strategist",
+      "07-performance-marketing",
+      "16-operator"
+    ]
+  },
+  {
+    "id": "07-performance-marketing",
+    "name": "Performance Marketing Agent",
+    "description": "Analyze Meta and Google campaigns with reconciled metrics and prepare controlled optimization plans.",
+    "path": "02-AGENTS/07-performance-marketing",
+    "version": "4.0.0",
+    "outputs": [
+      "Measurement contract",
+      "Meta diagnosis",
+      "Google diagnosis",
+      "Shared metrics dictionary",
+      "Controlled change plan"
+    ],
+    "handoffs": [
+      "04-creative-strategist",
+      "09-landing-pages-cro",
+      "14-profit-attribution-growth"
+    ]
+  },
+  {
+    "id": "08-product-page-merchandising",
+    "name": "Product Page & Merchandising Agent",
+    "description": "Build product-page copy, proof, FAQs, variant and collection briefs from verified SKU truth.",
+    "path": "02-AGENTS/08-product-page-merchandising",
+    "version": "4.0.0",
+    "outputs": [
+      "Product-page content hierarchy",
+      "Benefit and proof map",
+      "FAQ and variant guidance",
+      "Merchandising recommendations",
+      "Implementation brief"
+    ],
+    "handoffs": [
+      "09-landing-pages-cro",
+      "12-seo-geo",
+      "15-customer-care"
+    ]
+  },
+  {
+    "id": "09-landing-pages-cro",
+    "name": "Landing Pages CRO Agent",
+    "description": "Diagnose landing and checkout leaks and prioritize concise mobile improvements from supplied evidence.",
+    "path": "02-AGENTS/09-landing-pages-cro",
+    "version": "4.0.0",
+    "outputs": [
+      "Funnel evidence table",
+      "Mobile and checkout repair list",
+      "Prioritized CRO backlog",
+      "Copy and layout brief",
+      "Measurement and rollback plan"
+    ],
+    "handoffs": [
+      "08-product-page-merchandising",
+      "14-profit-attribution-growth",
+      "16-operator"
+    ]
+  },
+  {
+    "id": "10-email-sms-whatsapp-recovery",
+    "name": "Email, SMS & WhatsApp Recovery Agent",
+    "description": "Plan welcome and incomplete-purchase journeys with meaningful timing, offers and suppression.",
+    "path": "02-AGENTS/10-email-sms-whatsapp-recovery",
+    "version": "4.0.0",
+    "outputs": [
+      "Segment and trigger matrix",
+      "Email, SMS and WhatsApp drafts",
+      "Offer ladder",
+      "Purchase and consent suppression",
+      "Recovery measurement plan"
+    ],
+    "handoffs": [
+      "03-winning-offers-bundles",
+      "11-repeat-purchase-ltv",
+      "16-operator"
+    ]
+  },
+  {
+    "id": "11-repeat-purchase-ltv",
+    "name": "Repeat Purchase & LTV Generator Agent",
+    "description": "Plan second-order, replenishment, cross-sell, winback and VIP journeys from observed customer behavior.",
+    "path": "02-AGENTS/11-repeat-purchase-ltv",
+    "version": "4.0.0",
+    "outputs": [
+      "Cohort and reorder analysis",
+      "Post-purchase journey map",
+      "Cross-sell and replenishment rules",
+      "Winback and VIP drafts",
+      "LTV learning ledger"
+    ],
+    "handoffs": [
+      "03-winning-offers-bundles",
+      "14-profit-attribution-growth",
+      "15-customer-care"
+    ]
+  },
+  {
+    "id": "12-seo-geo",
+    "name": "SEO/GEO Agent",
+    "description": "Prepare buyer-intent search and answer-focused content, internal links and technical guidance.",
+    "path": "02-AGENTS/12-seo-geo",
+    "version": "4.0.0",
+    "outputs": [
+      "Buyer-intent question map",
+      "Content and comparison briefs",
+      "Internal-link plan",
+      "Indexation and schema checklist",
+      "Visibility observation register"
+    ],
+    "handoffs": [
+      "08-product-page-merchandising",
+      "04-creative-strategist",
+      "16-operator"
+    ]
+  },
+  {
+    "id": "13-creator-affiliate-growth",
+    "name": "Creator & Affiliate Growth Agent",
+    "description": "Qualify creator and affiliate candidates and prepare briefs, outreach drafts and economics worksheets.",
+    "path": "02-AGENTS/13-creator-affiliate-growth",
+    "version": "4.0.0",
+    "outputs": [
+      "Candidate qualification register",
+      "Outreach drafts",
+      "Creator production brief",
+      "Rights and deliverables checklist",
+      "Affiliate economics worksheet"
+    ],
+    "handoffs": [
+      "06-ugc-video",
+      "03-winning-offers-bundles",
+      "16-operator"
+    ]
+  },
+  {
+    "id": "14-profit-attribution-growth",
+    "name": "Profit, Attribution & Growth Agent",
+    "description": "Reconcile orders, refunds and ad spend into contribution reporting and actionable growth diagnosis.",
+    "path": "02-AGENTS/14-profit-attribution-growth",
+    "version": "4.0.0",
+    "outputs": [
+      "Reconciliation ledger",
+      "Contribution and CAC report",
+      "Attribution discrepancy log",
+      "Cohort and product diagnosis",
+      "Weekly growth decision packet"
+    ],
+    "handoffs": [
+      "07-performance-marketing",
+      "03-winning-offers-bundles",
+      "16-operator"
+    ]
+  },
+  {
+    "id": "15-customer-care",
+    "name": "Customer Care Agent",
+    "description": "Prepare policy-grounded support replies, triage and escalation handoffs for individual customer issues.",
+    "path": "02-AGENTS/15-customer-care",
+    "version": "4.0.0",
+    "outputs": [
+      "Issue triage",
+      "Policy-grounded reply draft",
+      "Resolution or escalation checklist",
+      "Customer update plan",
+      "Feedback handoff"
+    ],
+    "handoffs": [
+      "01-customer-voice-objection",
+      "11-repeat-purchase-ltv",
+      "16-operator"
+    ]
+  },
+  {
+    "id": "16-operator",
+    "name": "Operator Agent",
+    "description": "Coordinate launches, experiments, SOPs, owners, stock reviews and supplier handoffs.",
+    "path": "02-AGENTS/16-operator",
+    "version": "4.0.0",
+    "outputs": [
+      "Launch workback",
+      "Experiment and operations backlog",
+      "Task ownership register",
+      "SOP and workflow handoffs",
+      "Stock and supplier review checklist"
+    ],
+    "handoffs": [
+      "07-performance-marketing",
+      "14-profit-attribution-growth",
+      "15-customer-care"
+    ]
+  }
+]

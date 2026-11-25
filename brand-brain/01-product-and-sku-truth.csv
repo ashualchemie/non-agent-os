@@ -1,0 +1,434 @@
+record_id,sku,variant,market,field,value,unit,source_id,source_date,owner,status,approver,allowed_channels,expires_on,conflict_ids,freshness_rule
+P-001,NON-TAP-200,,IN,product_name,Tap & Faucet Cleaner,,SRC-LBL,2026-11-20,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-002,NON-TAP-200,,IN,format,trigger spray,,SRC-LBL,2026-11-20,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-003,NON-TAP-200,,IN,ingredients_as_printed,"Fruit enzymes (citrus peel), fruit-derived acids, plant-based cleansing agents and water",,SRC-LBL,2026-11-20,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-004,NON-TAP-200,,IN,directions_for_use,Spray on taps and fittings; leave 2-3 min on heavy stains; wipe with a damp cloth; rinse and buff dry,,SRC-LBL,2026-11-20,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-005,NON-TAP-200,,IN,caution_as_printed,"Not for marble or natural stone. Keep out of reach of children. Avoid contact with eyes; if it happens, rinse well with water.",,SRC-LBL,2026-11-20,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-006,NON-TAP-200,,IN,suitable_for,Taps; Showers; Glass screens; Sinks,,SRC-LBL,2026-11-20,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-007,NON-TAP-200,,IN,shelf_life,12 months from manufacturing date,,SRC-LBL,2026-11-20,Ashutosh,approved,,site;ads;care,,,recheck when label artwork changes
+P-008,NON-TAP-200,label,IN,net_content,200,ml,SRC-LBL,2026-11-20,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-009,NON-TAP-200,site listing,IN,net_content_as_sold,200 ml x 2 pack,,SRC-SITE,2026-11-20,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-010,NON-TAP-200,label,IN,mrp,999 (template placeholder on every label),INR,SRC-LBL,2026-11-20,Ashutosh,contradicted,,site;ads;care,,P-011,recheck when label artwork changes
+P-011,NON-TAP-200,site listing,IN,mrp,498,INR,SRC-SITE,2026-11-20,Ashutosh,contradicted,,site;ads;care,,P-010,recheck weekly
+P-012,NON-TAP-200,site listing,IN,selling_price,399,INR,SRC-SITE,2026-11-20,Ashutosh,verified,,site;ads;care,,,recheck weekly
+P-013,NON-MPR-200,,IN,product_name,Mandir & Pooja Room Cleaner,,SRC-LBL,2026-11-20,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-014,NON-MPR-200,,IN,format,spray,,SRC-LBL,2026-11-20,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-015,NON-MPR-200,,IN,ingredients_as_printed,"Fruit enzymes (citrus peel), plant-derived cleansing agents, mild alkaline booster and water",,SRC-LBL,2026-11-20,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-016,NON-MPR-200,,IN,directions_for_use,"Shake well; spray on the surface or a soft cloth; wait 1 min, then wipe; rinse brass/copper items and dry",,SRC-LBL,2026-11-20,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-017,NON-MPR-200,,IN,caution_as_printed,"Test on a hidden area first. Avoid painted idols and gold leaf. Keep out of reach of children. Avoid contact with eyes; if it happens, rinse well with water.",,SRC-LBL,2026-11-20,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-018,NON-MPR-200,,IN,suitable_for,Brass & copper; Diyas; Mandir; Marble,,SRC-LBL,2026-11-20,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-019,NON-MPR-200,,IN,shelf_life,12 months from manufacturing date,,SRC-LBL,2026-11-20,Ashutosh,approved,,site;ads;care,,,recheck when label artwork changes
+P-020,NON-MPR-200,label,IN,net_content,200,ml,SRC-LBL,2026-11-20,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-021,NON-MPR-200,site listing,IN,net_content_as_sold,200 ml x 2 pack,,SRC-SITE,2026-11-20,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-022,NON-MPR-200,label,IN,mrp,999 (template placeholder on every label),INR,SRC-LBL,2026-11-20,Ashutosh,contradicted,,site;ads;care,,P-023,recheck when label artwork changes
+P-023,NON-MPR-200,site listing,IN,mrp,598,INR,SRC-SITE,2026-11-20,Ashutosh,contradicted,,site;ads;care,,P-022,recheck weekly
+P-024,NON-MPR-200,site listing,IN,selling_price,299 (collection) / 399 (product page) - conflict,INR,SRC-SITE,2026-11-20,Ashutosh,contradicted,,site;ads;care,,,recheck weekly
+P-025,NON-SIL-200,,IN,product_name,Silver Cleaner & Polish,,SRC-LBL,2026-11-20,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-026,NON-SIL-200,,IN,format,spray,,SRC-LBL,2026-11-20,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-027,NON-SIL-200,,IN,ingredients_as_printed,"Water, mild organic acids, tarnish-lifting agent and gentle cleansing agent",,SRC-LBL,2026-11-20,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-028,NON-SIL-200,,IN,directions_for_use,Wear gloves; shake well; spray on a soft cloth or dip the item briefly; rub gently until tarnish lifts; rinse thoroughly and dry,,SRC-LBL,2026-11-20,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-029,NON-SIL-200,,IN,caution_as_printed,Use gloves. Rinse food-contact items well after use. Not for items with stones or pearls. Keep out of reach of children. Avoid contact with eyes. Do not swallow.,,SRC-LBL,2026-11-20,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-030,NON-SIL-200,,IN,suitable_for,Silverware; Pooja items; Jewellery (no stones/pearls); Decor,,SRC-LBL,2026-11-20,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-031,NON-SIL-200,,IN,shelf_life,12 months from manufacturing date,,SRC-LBL,2026-11-20,Ashutosh,approved,,site;ads;care,,,recheck when label artwork changes
+P-032,NON-SIL-200,label,IN,net_content,200,ml,SRC-LBL,2026-11-20,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-033,NON-SIL-200,site listing,IN,net_content_as_sold,200 ml x 2 pack,,SRC-SITE,2026-11-20,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-034,NON-SIL-200,label,IN,mrp,999 (template placeholder on every label),INR,SRC-LBL,2026-11-20,Ashutosh,contradicted,,site;ads;care,,P-035,recheck when label artwork changes
+P-035,NON-SIL-200,site listing,IN,mrp,798,INR,SRC-SITE,2026-11-20,Ashutosh,contradicted,,site;ads;care,,P-034,recheck weekly
+P-036,NON-SIL-200,site listing,IN,selling_price,399,INR,SRC-SITE,2026-11-20,Ashutosh,verified,,site;ads;care,,,recheck weekly
+P-037,NON-BRS-200,,IN,product_name,Brass Cleaner & Polish,,SRC-LBL,2026-11-20,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-038,NON-BRS-200,,IN,format,spray,,SRC-LBL,2026-11-20,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-039,NON-BRS-200,,IN,ingredients_as_printed,"Water, mild organic acids and gentle cleansing agent",,SRC-LBL,2026-11-20,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-040,NON-BRS-200,,IN,directions_for_use,Wear gloves; shake well; spray on the item or a soft cloth; rub gently until tarnish and oil lift; rinse with water and wipe dry,,SRC-LBL,2026-11-20,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-041,NON-BRS-200,,IN,caution_as_printed,"Use gloves. Rinse food-contact items well after use. Test on lacquered items first. Keep out of reach of children. Avoid contact with eyes; if it happens, rinse well with water. Do not swallow.",,SRC-LBL,2026-11-20,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-042,NON-BRS-200,,IN,suitable_for,Diyas; Bells; Idols; Pooja thalis; Decor (brass and copper),,SRC-LBL,2026-11-20,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-043,NON-BRS-200,,IN,shelf_life,12 months from manufacturing date,,SRC-LBL,2026-11-20,Ashutosh,approved,,site;ads;care,,,recheck when label artwork changes
+P-044,NON-BRS-200,label,IN,net_content,200,ml,SRC-LBL,2026-11-20,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-045,NON-BRS-200,site listing,IN,net_content_as_sold,200 ml,,SRC-SITE,2026-11-20,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-046,NON-BRS-200,label,IN,mrp,999 (template placeholder on every label),INR,SRC-LBL,2026-11-20,Ashutosh,contradicted,,site;ads;care,,P-047,recheck when label artwork changes
+P-047,NON-BRS-200,site listing,IN,mrp,399,INR,SRC-SITE,2026-11-20,Ashutosh,contradicted,,site;ads;care,,P-046,recheck weekly
+P-048,NON-BRS-200,site listing,IN,selling_price,299,INR,SRC-SITE,2026-11-20,Ashutosh,verified,,site;ads;care,,,recheck weekly
+P-049,NON-GLS-200,,IN,product_name,Glass & Mirror Cleaner,,SRC-LBL,2026-11-20,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-050,NON-GLS-200,,IN,format,spray,,SRC-LBL,2026-11-20,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-051,NON-GLS-200,,IN,ingredients_as_printed,"Fruit enzymes (citrus peel), plant-based cleansing agents, jasmine fragrance and water",,SRC-LBL,2026-11-20,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-052,NON-GLS-200,,IN,directions_for_use,Spray on the glass from 20 cm; wipe with a clean microfibre cloth; buff dry,,SRC-LBL,2026-11-20,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-053,NON-GLS-200,,IN,caution_as_printed,"Do not spray on hot glass or screens. Keep out of reach of children. Avoid contact with eyes; if it happens, rinse well with water.",,SRC-LBL,2026-11-20,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-054,NON-GLS-200,,IN,suitable_for,Mirrors; Shower screens; Car glass,,SRC-LBL,2026-11-20,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-055,NON-GLS-200,,IN,shelf_life,12 months from manufacturing date,,SRC-LBL,2026-11-20,Ashutosh,approved,,site;ads;care,,,recheck when label artwork changes
+P-056,NON-GLS-200,label,IN,net_content,200,ml,SRC-LBL,2026-11-20,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-057,NON-GLS-200,site listing,IN,net_content_as_sold,200 ml x 2 pack (title on site says 200 ml only),,SRC-SITE,2026-11-20,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-058,NON-GLS-200,label,IN,mrp,999 (template placeholder on every label),INR,SRC-LBL,2026-11-20,Ashutosh,contradicted,,site;ads;care,,P-059,recheck when label artwork changes
+P-059,NON-GLS-200,site listing,IN,mrp,"798 (for 2 bottles, owner 21 Nov 2026)",INR,SRC-SITE,2026-11-20,Ashutosh,contradicted,,site;ads;care,,P-058,recheck weekly
+P-060,NON-GLS-200,site listing,IN,selling_price,399 (page shows sold out; owner confirms in stock 21 Nov 2026),INR,SRC-SITE,2026-11-20,Ashutosh,verified,,site;ads;care,,,recheck weekly
+P-061,NON-KFC-500,,IN,product_name,Kitchen Foam Cleaner (Orange Peel Enzymes),,SRC-LBL,2026-11-20,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-062,NON-KFC-500,,IN,format,aerosol can,,SRC-LBL,2026-11-20,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-063,NON-KFC-500,,IN,ingredients_as_printed,"Fruit enzymes (orange peel), plant-based cleansing agents, fragrance and propellant",,SRC-LBL,2026-11-20,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-064,NON-KFC-500,,IN,directions_for_use,Shake well; spray evenly on surface; let foam work a few seconds and wipe clean,,SRC-LBL,2026-11-20,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-065,NON-KFC-500,,IN,caution_as_printed,"Use only on cool surfaces. Pressurised can: keep away from heat, sun and flame; do not pierce or burn. Keep out of reach of children. Avoid contact with eyes.",,SRC-LBL,2026-11-20,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-066,NON-KFC-500,,IN,suitable_for,Gas hobs; Chimneys; Tiles; Sinks,,SRC-LBL,2026-11-20,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-067,NON-KFC-500,,IN,shelf_life,12 months from manufacturing date,,SRC-LBL,2026-11-20,Ashutosh,approved,,site;ads;care,,,recheck when label artwork changes
+P-068,NON-KFC-500,label,IN,net_content,270,ml,SRC-LBL,2026-11-20,Ashutosh,contradicted,,site;ads;care,,P-069,recheck when label artwork changes
+P-069,NON-KFC-500,site listing,IN,net_content_as_sold,500 ml,,SRC-SITE,2026-11-20,Ashutosh,contradicted,,site;ads;care,,P-068,recheck when label artwork changes
+P-070,NON-KFC-500,label,IN,mrp,999 (template placeholder on every label),INR,SRC-LBL,2026-11-20,Ashutosh,contradicted,,site;ads;care,,P-071,recheck when label artwork changes
+P-071,NON-KFC-500,site listing,IN,mrp,unknown,INR,SRC-SITE,2026-11-20,Ashutosh,contradicted,,site;ads;care,,P-070,recheck weekly
+P-072,NON-KFC-500,site listing,IN,selling_price,449,INR,SRC-SITE,2026-11-20,Ashutosh,verified,,site;ads;care,,,recheck weekly
+P-073,NON-TFC-500,,IN,product_name,Toilet Cleaner,,SRC-LBL,2026-11-20,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-074,NON-TFC-500,,IN,format,gel,,SRC-LBL,2026-11-20,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-075,NON-TFC-500,,IN,ingredients_as_printed,"Fruit enzymes (citrus peel), fruit-derived acids, plant-based cleansing agents, natural thickener, lemon fragrance and water",,SRC-LBL,2026-11-20,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-076,NON-TFC-500,,IN,directions_for_use,Squeeze under the rim and around the bowl; leave 10-15 min; scrub with a toilet brush and flush,,SRC-LBL,2026-11-20,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-077,NON-TFC-500,,IN,caution_as_printed,"Do not mix with bleach or other cleaners. Keep out of reach of children. Avoid contact with eyes; if it happens, rinse well with water.",,SRC-LBL,2026-11-20,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-078,NON-TFC-500,,IN,suitable_for,Toilet bowls; Urinals; Under the rim,,SRC-LBL,2026-11-20,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-079,NON-TFC-500,,IN,shelf_life,12 months from manufacturing date,,SRC-LBL,2026-11-20,Ashutosh,approved,,site;ads;care,,,recheck when label artwork changes
+P-080,NON-TFC-500,label,IN,net_content,500,ml,SRC-LBL,2026-11-20,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-081,NON-TFC-500,site listing,IN,net_content_as_sold,500 ml,,SRC-SITE,2026-11-20,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-082,NON-TFC-500,label,IN,mrp,999 (template placeholder on every label),INR,SRC-LBL,2026-11-20,Ashutosh,contradicted,,site;ads;care,,P-083,recheck when label artwork changes
+P-083,NON-TFC-500,site listing,IN,mrp,598,INR,SRC-SITE,2026-11-20,Ashutosh,contradicted,,site;ads;care,,P-082,recheck weekly
+P-084,NON-TFC-500,site listing,IN,selling_price,299 (out of stock 20 Nov 2026),INR,SRC-SITE,2026-11-20,Ashutosh,verified,,site;ads;care,,,recheck weekly
+P-085,NON-LZR-200,,IN,product_name,Lizard Repellent,,SRC-LBL,2026-11-20,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-086,NON-LZR-200,,IN,format,aerosol can,,SRC-LBL,2026-11-20,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-087,NON-LZR-200,,IN,ingredients_as_printed,"Essential oils (peppermint, eucalyptus, clove, neem), carrier and propellant",,SRC-LBL,2026-11-20,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-088,NON-LZR-200,,IN,directions_for_use,"Shake; spray walls, corners, behind furniture, near lights, windows and entry points from 20 cm; close room 15-20 min then ventilate; daily for first week, then weekly",,SRC-LBL,2026-11-20,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-089,NON-LZR-200,,IN,caution_as_printed,"Do not spray on food, people or pets. Test on painted walls first. Pressurised can: keep away from heat, sun and flame; do not pierce or burn. Keep out of reach of children.",,SRC-LBL,2026-11-20,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-090,NON-LZR-200,,IN,suitable_for,Tube lights; Windows; Entry points,,SRC-LBL,2026-11-20,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-091,NON-LZR-200,,IN,shelf_life,12 months from manufacturing date,,SRC-LBL,2026-11-20,Ashutosh,approved,,site;ads;care,,,recheck when label artwork changes
+P-092,NON-LZR-200,label,IN,net_content,100,ml,SRC-LBL,2026-11-20,Ashutosh,contradicted,,site;ads;care,,P-093,recheck when label artwork changes
+P-093,NON-LZR-200,site listing,IN,net_content_as_sold,180 ml x 2 pack,,SRC-SITE,2026-11-20,Ashutosh,contradicted,,site;ads;care,,P-092,recheck when label artwork changes
+P-094,NON-LZR-200,label,IN,mrp,999 (template placeholder on every label),INR,SRC-LBL,2026-11-20,Ashutosh,contradicted,,site;ads;care,,P-095,recheck when label artwork changes
+P-095,NON-LZR-200,site listing,IN,mrp,798,INR,SRC-SITE,2026-11-20,Ashutosh,contradicted,,site;ads;care,,P-094,recheck weekly
+P-096,NON-LZR-200,site listing,IN,selling_price,499,INR,SRC-SITE,2026-11-20,Ashutosh,verified,,site;ads;care,,,recheck weekly
+P-097,NON-ROD-200,,IN,product_name,Rat & Rodent Repellent,,SRC-LBL,2026-11-20,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-098,NON-ROD-200,,IN,format,aerosol can,,SRC-LBL,2026-11-20,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-099,NON-ROD-200,,IN,ingredients_as_printed,"Chilli extract (capsicum), bittering agent, carrier and propellant",,SRC-LBL,2026-11-20,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-100,NON-ROD-200,,IN,directions_for_use,"Shake; spray on wires, pipes, entry points and engine-bay corners (engine cold); reapply every 3-4 days",,SRC-LBL,2026-11-20,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-101,NON-ROD-200,,IN,caution_as_printed,"Spray only on a cold engine. Irritating to eyes and skin. Pressurised can: keep away from heat, sun and flame; do not pierce or burn. Keep out of reach of children.",,SRC-LBL,2026-11-20,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-102,NON-ROD-200,,IN,suitable_for,Engine bays; Wires; Store rooms,,SRC-LBL,2026-11-20,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-103,NON-ROD-200,,IN,shelf_life,12 months from manufacturing date,,SRC-LBL,2026-11-20,Ashutosh,approved,,site;ads;care,,,recheck when label artwork changes
+P-104,NON-ROD-200,label,IN,net_content,100,ml,SRC-LBL,2026-11-20,Ashutosh,contradicted,,site;ads;care,,P-105,recheck when label artwork changes
+P-105,NON-ROD-200,site listing,IN,net_content_as_sold,180 ml x 2 pack,,SRC-SITE,2026-11-20,Ashutosh,contradicted,,site;ads;care,,P-104,recheck when label artwork changes
+P-106,NON-ROD-200,label,IN,mrp,999 (template placeholder on every label),INR,SRC-LBL,2026-11-20,Ashutosh,contradicted,,site;ads;care,,P-107,recheck when label artwork changes
+P-107,NON-ROD-200,site listing,IN,mrp,798,INR,SRC-SITE,2026-11-20,Ashutosh,contradicted,,site;ads;care,,P-106,recheck weekly
+P-108,NON-ROD-200,site listing,IN,selling_price,499,INR,SRC-SITE,2026-11-20,Ashutosh,verified,,site;ads;care,,,recheck weekly
+P-109,NON-PST-200,,IN,product_name,Multipurpose Repellent (Lemongrass Neem),,SRC-LBL,2026-11-20,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-110,NON-PST-200,,IN,format,aerosol can,,SRC-LBL,2026-11-20,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-111,NON-PST-200,,IN,ingredients_as_printed,"Essential oils (lemongrass, neem, cedarwood, clove, peppermint), carrier and propellant",,SRC-LBL,2026-11-20,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-112,NON-PST-200,,IN,directions_for_use,"Shake; spray corners, cracks, drains, entry points and under sinks from 20 cm; close room 15 min then ventilate; daily for a week, then twice a week",,SRC-LBL,2026-11-20,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-113,NON-PST-200,,IN,caution_as_printed,"Do not spray on food, people or pets. Cover food before use. Pressurised can: keep away from heat, sun and flame; do not pierce or burn. Keep out of reach of children.",,SRC-LBL,2026-11-20,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-114,NON-PST-200,,IN,suitable_for,Kitchens; Bathrooms; Bins & drains; Entry points,,SRC-LBL,2026-11-20,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-115,NON-PST-200,,IN,shelf_life,12 months from manufacturing date,,SRC-LBL,2026-11-20,Ashutosh,approved,,site;ads;care,,,recheck when label artwork changes
+P-116,NON-PST-200,label,IN,net_content,100,ml,SRC-LBL,2026-11-20,Ashutosh,contradicted,,site;ads;care,,P-117,recheck when label artwork changes
+P-117,NON-PST-200,site listing,IN,net_content_as_sold,180 ml x 2 pack,,SRC-SITE,2026-11-20,Ashutosh,contradicted,,site;ads;care,,P-116,recheck when label artwork changes
+P-118,NON-PST-200,label,IN,mrp,999 (template placeholder on every label),INR,SRC-LBL,2026-11-20,Ashutosh,contradicted,,site;ads;care,,P-119,recheck when label artwork changes
+P-119,NON-PST-200,site listing,IN,mrp,798,INR,SRC-SITE,2026-11-20,Ashutosh,contradicted,,site;ads;care,,P-118,recheck weekly
+P-120,NON-PST-200,site listing,IN,selling_price,399,INR,SRC-SITE,2026-11-20,Ashutosh,verified,,site;ads;care,,,recheck weekly
+P-121,NON-BTH-200,,IN,product_name,Bathroom Cleaner Spray,,SRC-SITE,2026-11-20,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-122,NON-BTH-200,site listing,IN,net_content_as_sold,200 ml x 2 pack,,SRC-SITE,2026-11-20,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-123,NON-BTH-200,site listing,IN,mrp,598,INR,SRC-SITE,2026-11-20,Ashutosh,verified,,site;ads;care,,,recheck weekly
+P-124,NON-BTH-200,site listing,IN,selling_price,349,INR,SRC-SITE,2026-11-20,Ashutosh,verified,,site;ads;care,,,recheck weekly
+P-125,NON-BTH-200,,IN,ingredients_site_field,Bio enzyme and lactic acid,,SRC-SITE,2026-11-20,Ashutosh,verified,,site;ads;care,,superseded by label ingredients (SRC-LBL2),recheck when label artwork changes
+P-126,NON-BTH-200,,IN,ideal_for,"Bathroom surfaces, tiles, fittings and toilets",,SRC-SITE,2026-11-20,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-127,NON-BTH-200,,IN,benefit_site_copy,"Removes soap scum, water marks, grime; trigger spray; fresh fragrance; spray and wipe",,SRC-SITE,2026-11-20,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-128,ALL,,IN,manufacturer_on_label,"Mfd. & Mktd. by InnovaChem Systems LLP, Noida, Uttar Pradesh, India",,SRC-LBL,2026-11-20,Ashutosh,contradicted,,site;ads;care,,P-129,recheck when label artwork changes
+P-129,ALL,,IN,factory_location,"Own plant at Sahibabad, Ghaziabad (questionnaire)",,SRC-Q,2026-11-20,Ashutosh,draft,,site;ads;care,,,confirm once
+P-130,ALL,,IN,customer_care_on_label,contact@innovachem.in; phone shown as +91 XXXXX XXXXX (placeholder),,SRC-LBL,2026-11-20,Ashutosh,contradicted,,site;ads;care,,,recheck when label artwork changes
+P-131,ALL,,IN,batch_and_mfg_on_label,"Batch ASCF208, Mfg Aug 2026 on every label (template values)",,SRC-LBL,2026-11-20,Ashutosh,contradicted,,site;ads;care,,,recheck when label artwork changes
+P-132,NON-MLD-200,,IN,product_name,NoN Mould & Mildew Remover,,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-133,NON-MLD-200,,IN,sheet_sku_id,NON-5 / product code SZzeRrto,,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-134,NON-MLD-200,,IN,ingredients_as_printed,"Water, active chlorine and cleansing agent",,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-135,NON-MLD-200,,IN,directions_for_use,Ventilate the room. Wear gloves. Spray directly on mould from 15 cm. Leave 10-15 minutes. Scrub lightly and rinse well with water.,,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-136,NON-MLD-200,,IN,caution_as_printed,"Never mix with acids or toilet cleaners. Bleaches fabrics. Use gloves in a ventilated area. Keep out of reach of children. Avoid contact with eyes; if it happens, rinse well with water.",,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-137,NON-MLD-200,,IN,suitable_for,"Grout, silicone, walls, corners",,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-138,NON-MLD-200,,IN,label_headline_and_description,"BLACK SPOTS, GONE - Chlorine-based spray that removes black mould and mildew stains from tile grout, silicone and bathroom walls.",,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-139,NON-MLD-200,,IN,shelf_life,12 months from manufacturing date,,SRC-LBL2,2026-11-23,Ashutosh,approved,,site;ads;care,,,recheck when label artwork changes
+P-140,NON-MLD-200,label,IN,net_content,200 ml,,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-141,NON-MLD-200,label,IN,mrp,999 (template placeholder on label),INR,SRC-LBL2,2026-11-23,Ashutosh,contradicted,,site;ads;care,,C-021,recheck when label artwork changes
+P-142,NON-MLD-200,sheet,IN,size_in_sheet,Pricing Sheet: 200 ml; Catalogue Final net qty: 200 ml,,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-143,NON-MLD-200,sheet listing,IN,mrp,299.0,INR,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck weekly
+P-144,NON-MLD-200,sheet single bottle,IN,selling_price,199,INR,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck weekly
+P-145,NON-MLD-200,,IN,cost_price_all_in,99.5,INR,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck monthly
+P-146,NON-RST-200,,IN,product_name,NoN Rust Remover & Converter,,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-147,NON-RST-200,,IN,sheet_sku_id,NON-6 / product code AUe65_s8,,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-148,NON-RST-200,,IN,ingredients_as_printed,"Water, rust-dissolving mineral acids, rust converter and fragrance",,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-149,NON-RST-200,,IN,directions_for_use,"Wear gloves and eye protection. Brush off loose rust; spray on the rust. Leave 5-10 minutes; scrub. Rinse, dry completely, then paint. (some words hidden on render)",,SRC-LBL2,2026-11-23,Ashutosh,draft,,site;ads;care,,,recheck when label artwork changes
+P-150,NON-RST-200,,IN,caution_as_printed,"Corrosive. Use gloves in a ventilated area. Never mix with bleach. Keep out of reach of children. Avoid contact with eyes; if it happens, rinse well with water. Do not swallow.",,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-151,NON-RST-200,,IN,suitable_for,"Nuts & bolts, auto parts, gates & grills",,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-152,NON-RST-200,,IN,label_headline_and_description,STOP RUST IN ITS TRACKS - Acid-based rust remover that dissolves loose rust and leaves a phosphate layer ready for painting.,,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-153,NON-RST-200,,IN,shelf_life,12 months from manufacturing date,,SRC-LBL2,2026-11-23,Ashutosh,approved,,site;ads;care,,,recheck when label artwork changes
+P-154,NON-RST-200,label,IN,net_content,200 ml,,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-155,NON-RST-200,label,IN,mrp,999 (template placeholder on label),INR,SRC-LBL2,2026-11-23,Ashutosh,contradicted,,site;ads;care,,C-021,recheck when label artwork changes
+P-156,NON-RST-200,sheet,IN,size_in_sheet,Pricing Sheet: 200 ml; Catalogue Final net qty: 200 ml,,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-157,NON-RST-200,sheet listing,IN,mrp,299.0,INR,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck weekly
+P-158,NON-RST-200,sheet single bottle,IN,selling_price,199,INR,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck weekly
+P-159,NON-RST-200,,IN,cost_price_all_in,99.5,INR,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck monthly
+P-160,NON-FVW-200,,IN,product_name,NoN Fruit & Vegetable Wash,,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-161,NON-FVW-200,,IN,sheet_sku_id,NON-8 / product code rAqLd8BF,,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-162,NON-FVW-200,,IN,ingredients_as_printed,"Fruit-derived acids, plant-based cleansing agents, neem extract and water",,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-163,NON-FVW-200,,IN,directions_for_use,Add 10 ml to 1 litre of water. Soak fruits and vegetables for 5 minutes. Rinse thoroughly under running water before eating.,,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-164,NON-FVW-200,,IN,caution_as_printed,"Always dilute. Rinse produce well before eating. Keep out of reach of children. Avoid contact with eyes; if it happens, rinse well with water.",,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-165,NON-FVW-200,,IN,suitable_for,"Fruits, leafy greens",,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-166,NON-FVW-200,,IN,label_headline_and_description,"WASH, RINSE, ENJOY - Produce wash with lactic and citric acid that helps remove surface dirt and residues from fruits and vegetables.",,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-167,NON-FVW-200,,IN,shelf_life,12 months from manufacturing date,,SRC-LBL2,2026-11-23,Ashutosh,approved,,site;ads;care,,,recheck when label artwork changes
+P-168,NON-FVW-200,label,IN,net_content,200 ml,,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-169,NON-FVW-200,label,IN,mrp,999 (template placeholder on label),INR,SRC-LBL2,2026-11-23,Ashutosh,contradicted,,site;ads;care,,C-021,recheck when label artwork changes
+P-170,NON-FVW-200,sheet,IN,size_in_sheet,Pricing Sheet: 200 ml; Catalogue Final net qty: 200 ml,,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-171,NON-FVW-200,sheet listing,IN,mrp,449.0,INR,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck weekly
+P-172,NON-FVW-200,sheet single bottle,IN,selling_price,299,INR,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck weekly
+P-173,NON-FVW-200,,IN,cost_price_all_in,149.5,INR,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck monthly
+P-174,NON-CAV-500,,IN,product_name,NoN Car AC Vent Cleaner,,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-175,NON-CAV-500,,IN,sheet_sku_id,NON-10 / product code Wa8Yy1_u,,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-176,NON-CAV-500,,IN,ingredients_as_printed,"Fruit enzymes (citrus peel), plant-based cleansing agents, fragrance, water and propellant",,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-177,NON-CAV-500,,IN,directions_for_use,"Shake well. Switch off the AC. Spray foam into and around the vents. Wait 2 minutes, then wipe the grilles. Run the fan for a few minutes to air out.",,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-178,NON-CAV-500,,IN,caution_as_printed,"Keep off screens and electronics. Pressurised can: keep away from heat, sun and flame. Do not pierce or burn. Keep out of reach of children. Avoid contact with eyes; if it happens, rinse well with water.",,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-179,NON-CAV-500,,IN,suitable_for,"AC vents, dashboard trim",,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-180,NON-CAV-500,,IN,label_headline_and_description,BREATHE FRESH ON EVERY DRIVE - Active foam with bio-enzyme that lifts dust and grime from car AC vents and leaves a fresh fragrance.,,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-181,NON-CAV-500,,IN,shelf_life,12 months from manufacturing date,,SRC-LBL2,2026-11-23,Ashutosh,approved,,site;ads;care,,,recheck when label artwork changes
+P-182,NON-CAV-500,label,IN,net_content,270 ml,,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-183,NON-CAV-500,label,IN,mrp,999 (template placeholder on label),INR,SRC-LBL2,2026-11-23,Ashutosh,contradicted,,site;ads;care,,C-021,recheck when label artwork changes
+P-184,NON-CAV-500,sheet,IN,size_in_sheet,Pricing Sheet: 400 ml; Catalogue Final net qty: 270 ml,,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-185,NON-CAV-500,sheet listing,IN,mrp,449.0,INR,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck weekly
+P-186,NON-CAV-500,sheet single bottle,IN,selling_price,299,INR,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck weekly
+P-187,NON-CAV-500,,IN,cost_price_all_in,149.5,INR,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck monthly
+P-188,NON-MAT-1L,,IN,product_name,NoN Matic Liquid Detergent,,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-189,NON-MAT-1L,,IN,sheet_sku_id,NON-12 / product code 62kYRdlO,,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-190,NON-MAT-1L,,IN,ingredients_as_printed,"Fruit enzymes (citrus peel), soapnut extract, plant-based cleansing agents, fragrance and water",,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-191,NON-MAT-1L,,IN,directions_for_use,"Machine: 1 capful (about 40 ml) per wash. Hand wash: 1 capful in a bucket of water; soak 15 minutes. Pre-treat stains with a little liquid, then wash as a regular load. (some words hidden on render)",,SRC-LBL2,2026-11-23,Ashutosh,draft,,site;ads;care,,,recheck when label artwork changes
+P-192,NON-MAT-1L,,IN,caution_as_printed,"Not for silk or wool. Keep out of reach of children. Avoid contact with eyes; if it happens, rinse well with water.",,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-193,NON-MAT-1L,,IN,suitable_for,"Top & front load, hand wash, cotton, synthetics",,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-194,NON-MAT-1L,,IN,label_headline_and_description,"DEEP CLEAN, GENTLE CARE - Liquid detergent with bio-enzyme and soapnut saponin that lifts everyday stains and leaves clothes fresh.",,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-195,NON-MAT-1L,,IN,shelf_life,12 months from manufacturing date,,SRC-LBL2,2026-11-23,Ashutosh,approved,,site;ads;care,,,recheck when label artwork changes
+P-196,NON-MAT-1L,label,IN,net_content,1 L (from SKU and USP Rs 1.00/ml; net line hidden on render),,SRC-LBL2,2026-11-23,Ashutosh,draft,,site;ads;care,,,recheck when label artwork changes
+P-197,NON-MAT-1L,label,IN,mrp,999 (template placeholder on label),INR,SRC-LBL2,2026-11-23,Ashutosh,contradicted,,site;ads;care,,C-021,recheck when label artwork changes
+P-198,NON-MAT-1L,sheet,IN,size_in_sheet,Pricing Sheet: 1 L; Catalogue Final net qty: 1 L,,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-199,NON-MAT-1L,sheet listing,IN,mrp,399.0,INR,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck weekly
+P-200,NON-MAT-1L,sheet single bottle,IN,selling_price,249,INR,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck weekly
+P-201,NON-MAT-1L,,IN,cost_price_all_in,124.5,INR,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck monthly
+P-202,NON-CFC-500,,IN,product_name,NoN Car Foam Cleaner,,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-203,NON-CFC-500,,IN,sheet_sku_id,NON-13 / product code sWqRxXuI,,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-204,NON-CFC-500,,IN,ingredients_as_printed,"Fruit enzymes (citrus peel), plant-based cleansing agents, fragrance, water and propellant",,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-205,NON-CFC-500,,IN,directions_for_use,Shake well. Hold upright 20 cm away and spray evenly. Let the foam work for 1 minute. Wipe clean with a microfibre cloth.,,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-206,NON-CFC-500,,IN,caution_as_printed,"Test on a hidden area first. Pressurised can: keep away from heat, sun and flame. Do not pierce or burn. Keep out of reach of children. Avoid contact with eyes; if it happens, rinse well with water.",,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-207,NON-CFC-500,,IN,suitable_for,"Seats, dashboard, door panels, mats",,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-208,NON-CFC-500,,IN,label_headline_and_description,"SHOWROOM-FRESH INTERIORS - Active foam with bio-enzyme that lifts dirt and stains from car seats, mats, dashboards and door panels.",,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-209,NON-CFC-500,,IN,shelf_life,12 months from manufacturing date,,SRC-LBL2,2026-11-23,Ashutosh,approved,,site;ads;care,,,recheck when label artwork changes
+P-210,NON-CFC-500,label,IN,net_content,270 ml,,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-211,NON-CFC-500,label,IN,mrp,999 (template placeholder on label),INR,SRC-LBL2,2026-11-23,Ashutosh,contradicted,,site;ads;care,,C-021,recheck when label artwork changes
+P-212,NON-CFC-500,sheet,IN,size_in_sheet,Pricing Sheet: 500 ml; Catalogue Final net qty: 270 ml,,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-213,NON-CFC-500,sheet listing,IN,mrp,349.0,INR,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck weekly
+P-214,NON-CFC-500,sheet single bottle,IN,selling_price,219,INR,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck weekly
+P-215,NON-CFC-500,,IN,cost_price_all_in,109.5,INR,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck monthly
+P-216,NON-14,,IN,product_name,NoN Washing Machine & Appliance Descaler,,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-217,NON-14,,IN,sheet_sku_id,NON-14 / product code CXG2b6pt,,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-218,NON-14,,IN,back_label,Back label image (Pricing Sheet col AC) returned no readable text; check the image and re-read,,SRC-LBL2,2026-11-23,Ashutosh,draft,,site;ads;care,,,recheck when label artwork changes
+P-219,NON-14,sheet,IN,size_in_sheet,Pricing Sheet: 100 g; Catalogue Final net qty: 100 g,,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-220,NON-14,sheet listing,IN,mrp,299.0,INR,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck weekly
+P-221,NON-14,sheet single bottle,IN,selling_price,199,INR,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck weekly
+P-222,NON-14,,IN,cost_price_all_in,99.5,INR,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck monthly
+P-223,NON-ANT-200,,IN,product_name,NoN Ant Repellent,,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-224,NON-ANT-200,,IN,sheet_sku_id,NON-15 / product code jkAvlLYi,,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-225,NON-ANT-200,,IN,ingredients_as_printed,"Plant essential oils (cedarwood, neem, peppermint, eucalyptus, citronella), carrier and propellant",,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-226,NON-ANT-200,,IN,directions_for_use,"Shake well. Spray along ant trails, entry points and corners from 20 cm. Repeat every 2-3 days as needed.",,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-227,NON-ANT-200,,IN,caution_as_printed,"Do not spray on food, people or pets. Pressurised can: keep away from heat, sun and flame. Do not pierce or burn. Keep out of reach of children.",,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-228,NON-ANT-200,,IN,suitable_for,"Ant trails, window sills, door frames, entry points",,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-229,NON-ANT-200,,IN,label_headline_and_description,"KEEP ANTS AWAY NATURALLY - Essential-oil spray with cedarwood, neem, peppermint, eucalyptus and citronella to keep ants off your space.",,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-230,NON-ANT-200,,IN,shelf_life,12 months from manufacturing date,,SRC-LBL2,2026-11-23,Ashutosh,approved,,site;ads;care,,,recheck when label artwork changes
+P-231,NON-ANT-200,label,IN,net_content,100 ml,,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-232,NON-ANT-200,label,IN,mrp,999 (template placeholder on label),INR,SRC-LBL2,2026-11-23,Ashutosh,contradicted,,site;ads;care,,C-021,recheck when label artwork changes
+P-233,NON-ANT-200,sheet,IN,size_in_sheet,Pricing Sheet: 100 ml; Catalogue Final net qty: 100 ml,,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-234,NON-ANT-200,sheet listing,IN,mrp,399.0,INR,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck weekly
+P-235,NON-ANT-200,sheet single bottle,IN,selling_price,249,INR,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck weekly
+P-236,NON-ANT-200,,IN,cost_price_all_in,124.5,INR,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck monthly
+P-237,NON-USR-400,,IN,product_name,NoN Universal Stain Remover,,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-238,NON-USR-400,,IN,sheet_sku_id,NON-16 / product code tNZcfnlD,,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-239,NON-USR-400,,IN,ingredients_as_printed,"Plant-based and mild cleansing agents, water softener, water and propellant",,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-240,NON-USR-400,,IN,directions_for_use,"Shake well. Test on a hidden area. Spray foam on the stain; wait 2-3 minutes. Blot or brush, then wash or wipe clean.",,SRC-LBL2,2026-11-23,Ashutosh,draft,,site;ads;care,,,recheck when label artwork changes
+P-241,NON-USR-400,,IN,caution_as_printed,"Test on a hidden area. Not for silk, wool or leather. Pressurised can: keep away from heat, sun and flame. Do not pierce or burn. Keep out of reach of children. Avoid contact with eyes; if it happens, rinse well with water.",,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-242,NON-USR-400,,IN,suitable_for,"Clothes, carpets, upholstery",,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-243,NON-USR-400,,IN,label_headline_and_description,"STAINS OUT, COLOURS IN - Active foam that loosens everyday stains on fabrics, carpets and upholstery before washing or wiping.",,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-244,NON-USR-400,,IN,shelf_life,12 months from manufacturing date,,SRC-LBL2,2026-11-23,Ashutosh,approved,,site;ads;care,,,recheck when label artwork changes
+P-245,NON-USR-400,label,IN,net_content,200 ml,,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-246,NON-USR-400,label,IN,mrp,999 (template placeholder on label),INR,SRC-LBL2,2026-11-23,Ashutosh,contradicted,,site;ads;care,,C-021,recheck when label artwork changes
+P-247,NON-USR-400,sheet,IN,size_in_sheet,Pricing Sheet: 200 ml; Catalogue Final net qty: 200 ml,,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-248,NON-USR-400,sheet listing,IN,mrp,399.0,INR,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck weekly
+P-249,NON-USR-400,sheet single bottle,IN,selling_price,249,INR,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck weekly
+P-250,NON-USR-400,,IN,cost_price_all_in,124.5,INR,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck monthly
+P-251,NON-DRN-500,,IN,product_name,NoN Drain Cleaner & Opener,,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-252,NON-DRN-500,,IN,sheet_sku_id,NON-17 / product code XpujrsD4,,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-253,NON-DRN-500,,IN,ingredients_as_printed,Caustic granules with active granule booster,,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-254,NON-DRN-500,,IN,directions_for_use,"Remove standing water. Pour 2 tablespoons into the drain, then 1 cup of cold water. Wait 15-30 minutes, then flush with plenty of water.",,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-255,NON-DRN-500,,IN,caution_as_printed,"Corrosive. Use gloves. Never mix with acids or other drain cleaners. Keep out of reach of children. Avoid contact with eyes; if it happens, rinse well with water. Do not swallow.",,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-256,NON-DRN-500,,IN,suitable_for,"Kitchen drains, bathroom drains",,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-257,NON-DRN-500,,IN,label_headline_and_description,"UNCLOG IN MINUTES - Caustic granules that dissolve hair, grease and soap clogs in kitchen and bathroom drains.",,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-258,NON-DRN-500,,IN,shelf_life,12 months from manufacturing date,,SRC-LBL2,2026-11-23,Ashutosh,approved,,site;ads;care,,,recheck when label artwork changes
+P-259,NON-DRN-500,label,IN,net_content,500 g,,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-260,NON-DRN-500,label,IN,mrp,999 (template placeholder on label),INR,SRC-LBL2,2026-11-23,Ashutosh,contradicted,,site;ads;care,,C-021,recheck when label artwork changes
+P-261,NON-DRN-500,sheet,IN,size_in_sheet,Pricing Sheet: 500 g; Catalogue Final net qty: 500 g,,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-262,NON-DRN-500,sheet listing,IN,mrp,249.0,INR,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck weekly
+P-263,NON-DRN-500,sheet single bottle,IN,selling_price,199,INR,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck weekly
+P-264,NON-DRN-500,,IN,cost_price_all_in,99.5,INR,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck monthly
+P-265,NON-PEP-55,,IN,product_name,NoN Pepper Spray,,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-266,NON-PEP-55,,IN,sheet_sku_id,NON-20 / product code jHGDm_jK,,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-267,NON-PEP-55,,IN,ingredients_as_printed,"Oleoresin capsicum (chilli extract), carrier and propellant",,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-268,NON-PEP-55,,IN,directions_for_use,Point the nozzle away from yourself. Aim at the attacker's face from 1-2 metres. Press firmly; move away and seek help.,,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-269,NON-PEP-55,,IN,caution_as_printed,"For self-defence only. Causes severe eye and skin irritation. Toxic if swallowed. Pressurised container: protect from sunlight and do not expose to temperatures above 50 C. Do not pierce or burn, even after use. Do not spray on a naked flame. Extremely flammable propellant. Keep out of reach of children. Avoid contact with eyes.",,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-270,NON-PEP-55,,IN,suitable_for,Self-defence; bag and pocket,,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-271,NON-PEP-55,,IN,label_headline_and_description,STAY SAFE - Compact pepper spray for personal safety.,,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-272,NON-PEP-55,,IN,shelf_life,12 months from manufacturing date,,SRC-LBL2,2026-11-23,Ashutosh,approved,,site;ads;care,,,recheck when label artwork changes
+P-273,NON-PEP-55,label,IN,net_content,20 ml per can (USP Rs 49.95/ml); sheet sells pack of 3 (60 ml),,SRC-LBL2,2026-11-23,Ashutosh,draft,,site;ads;care,,,recheck when label artwork changes
+P-274,NON-PEP-55,label,IN,mrp,999 (template placeholder on label),INR,SRC-LBL2,2026-11-23,Ashutosh,contradicted,,site;ads;care,,C-021,recheck when label artwork changes
+P-275,NON-PEP-55,sheet,IN,size_in_sheet,Pricing Sheet: 60 ml; Catalogue Final net qty: 60 ml,,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-276,NON-PEP-55,sheet listing,IN,mrp,499.0,INR,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck weekly
+P-277,NON-PEP-55,sheet single bottle,IN,selling_price,299,INR,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck weekly
+P-278,NON-PEP-55,,IN,cost_price_all_in,149.5,INR,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck monthly
+P-279,NON-BTH-200,,IN,product_name,NoN Bathroom Cleaner,,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-280,NON-BTH-200,,IN,sheet_sku_id,NON-21 / product code eDdQVYwW,,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-281,NON-BTH-200,,IN,ingredients_as_printed,"Fruit enzymes (citrus peel), fruit-derived acids, cleansing agents, fragrance and water (one word hidden on render)",,SRC-LBL2,2026-11-23,Ashutosh,draft,,site;ads;care,,,recheck when label artwork changes
+P-282,NON-BTH-200,,IN,directions_for_use,"Shake well. Spray on the surface. Leave for 2 minutes, then scrub lightly. Rinse with water.",,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-283,NON-BTH-200,,IN,caution_as_printed,"Not for marble or natural stone. Keep out of reach of children. Avoid contact with eyes; if it happens, rinse well with water.",,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-284,NON-BTH-200,,IN,suitable_for,Tiles and fittings (from headline; icon row not read),,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-285,NON-BTH-200,,IN,label_headline_and_description,"FRESH, SPARKLING BATHROOMS - Bio-enzyme cleaner with lactic acid that breaks down soap scum and water marks on tiles and fittings.",,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-286,NON-BTH-200,,IN,shelf_life,12 months from manufacturing date,,SRC-LBL2,2026-11-23,Ashutosh,approved,,site;ads;care,,,recheck when label artwork changes
+P-287,NON-BTH-200,label,IN,net_content,200 ml,,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-288,NON-BTH-200,label,IN,mrp,999 (template placeholder on label),INR,SRC-LBL2,2026-11-23,Ashutosh,contradicted,,site;ads;care,,C-021,recheck when label artwork changes
+P-289,NON-BTH-200,sheet,IN,size_in_sheet,Pricing Sheet: 200 ml; Catalogue Final net qty: 200 ml,,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-290,NON-BTH-200,sheet listing,IN,mrp,299.0,INR,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck weekly
+P-291,NON-BTH-200,sheet single bottle,IN,selling_price,199,INR,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck weekly
+P-292,NON-BTH-200,,IN,cost_price_all_in,99.5,INR,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck monthly
+P-293,NON-INK-200,,IN,product_name,NoN Ink & Stain Remover,,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-294,NON-INK-200,,IN,sheet_sku_id,NON-22 / product code 1-JOZD2r,,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-295,NON-INK-200,,IN,ingredients_as_printed,"Stain-lifting solvents, glycerine and cleansing agent",,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-296,NON-INK-200,,IN,directions_for_use,Test on a hidden area first. Place a cloth under the stain; dab a little product. Blot from outside in; do not rub. Wash the item as usual.,,SRC-LBL2,2026-11-23,Ashutosh,draft,,site;ads;care,,,recheck when label artwork changes
+P-297,NON-INK-200,,IN,caution_as_printed,"Flammable. Use gloves in a ventilated area. Test on a hidden area. Keep out of reach of children. Avoid contact with eyes; if it happens, rinse well with water. Do not swallow.",,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-298,NON-INK-200,,IN,suitable_for,"Ballpoint ink, marker and stubborn stains on fabric",,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-299,NON-INK-200,,IN,label_headline_and_description,"LIFT INK, NOT COLOUR - Fast solvent spot remover for ballpoint ink, marker and stubborn stains.",,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-300,NON-INK-200,,IN,shelf_life,12 months from manufacturing date,,SRC-LBL2,2026-11-23,Ashutosh,approved,,site;ads;care,,,recheck when label artwork changes
+P-301,NON-INK-200,label,IN,net_content,200 ml,,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-302,NON-INK-200,label,IN,mrp,999 (template placeholder on label),INR,SRC-LBL2,2026-11-23,Ashutosh,contradicted,,site;ads;care,,C-021,recheck when label artwork changes
+P-303,NON-INK-200,sheet,IN,size_in_sheet,Pricing Sheet: 200 ml; Catalogue Final net qty: 200 ml,,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-304,NON-INK-200,sheet listing,IN,mrp,449.0,INR,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck weekly
+P-305,NON-INK-200,sheet single bottle,IN,selling_price,299,INR,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck weekly
+P-306,NON-INK-200,,IN,cost_price_all_in,149.5,INR,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck monthly
+P-307,NON-DSH-500,,IN,product_name,NoN Dishwash Liquid,,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-308,NON-DSH-500,,IN,sheet_sku_id,NON-23 / product code Zbx8WV9i,,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-309,NON-DSH-500,,IN,ingredients_as_printed,"Fruit enzymes (citrus peel), plant-derived and mild cleansing agents, water softener and water",,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-310,NON-DSH-500,,IN,directions_for_use,Add a few drops to a wet scrub or a bowl of water. Wash utensils. Rinse thoroughly with water.,,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-311,NON-DSH-500,,IN,caution_as_printed,"Rinse utensils well after washing. Keep out of reach of children. Avoid contact with eyes; if it happens, rinse well with water.",,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-312,NON-DSH-500,,IN,suitable_for,Utensils,,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-313,NON-DSH-500,,IN,label_headline_and_description,"GREASE GONE, DISHES SHINE - Concentrated dishwash liquid that cuts oil and grease and rinses off easily.",,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-314,NON-DSH-500,,IN,shelf_life,12 months from manufacturing date,,SRC-LBL2,2026-11-23,Ashutosh,approved,,site;ads;care,,,recheck when label artwork changes
+P-315,NON-DSH-500,label,IN,net_content,500 ml,,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-316,NON-DSH-500,label,IN,mrp,999 (template placeholder on label),INR,SRC-LBL2,2026-11-23,Ashutosh,contradicted,,site;ads;care,,C-021,recheck when label artwork changes
+P-317,NON-DSH-500,sheet,IN,size_in_sheet,Pricing Sheet: 500 ml; Catalogue Final net qty: 500 ml,,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-318,NON-DSH-500,sheet listing,IN,mrp,299.0,INR,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck weekly
+P-319,NON-DSH-500,sheet single bottle,IN,selling_price,199,INR,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck weekly
+P-320,NON-DSH-500,,IN,cost_price_all_in,99.5,INR,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck monthly
+P-321,NON-24,,IN,product_name,NoN Lemongrass Floor Cleaner,,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-322,NON-24,,IN,sheet_sku_id,NON-24 / product code hNEWeY_U,,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-323,NON-24,,IN,ingredients_as_printed,"Fruit enzymes (citrus peel), plant-based cleansing agents, lemongrass oil and water",,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-324,NON-24,,IN,directions_for_use,"Add 2 capfuls (about 30 ml) to half a bucket of water. Mop the floor as usual. No rinsing needed. For tough spots, use a few drops directly and wipe.",,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-325,NON-24,,IN,caution_as_printed,"Dilute before use. Not for untreated wooden floors. Keep out of reach of children. Avoid contact with eyes; if it happens, rinse well with water.",,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-326,NON-24,,IN,suitable_for,"Marble, granite, Kota stone, tiles",,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-327,NON-24,,IN,label_headline_and_description,"CLEAN FLOORS, FRESH HOME - Bio-enzyme floor cleaner with lemongrass oil that lifts everyday dirt and leaves a fresh fragrance. (Image file is named Floor Cleaner and Disinfectant; label text makes no disinfectant claim.)",,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-328,NON-24,,IN,shelf_life,12 months from manufacturing date,,SRC-LBL2,2026-11-23,Ashutosh,approved,,site;ads;care,,,recheck when label artwork changes
+P-329,NON-24,label,IN,net_content,1 L,,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-330,NON-24,label,IN,mrp,999 (template placeholder on label),INR,SRC-LBL2,2026-11-23,Ashutosh,contradicted,,site;ads;care,,C-021,recheck when label artwork changes
+P-331,NON-24,sheet,IN,size_in_sheet,Pricing Sheet: 1 L; Catalogue Final net qty: 1 L,,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-332,NON-24,sheet listing,IN,mrp,399.0,INR,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck weekly
+P-333,NON-24,sheet single bottle,IN,selling_price,249,INR,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck weekly
+P-334,NON-24,,IN,cost_price_all_in,124.5,INR,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck monthly
+P-335,NON-SIL-400,,IN,product_name,NoN Silicone Spray Multi-Purpose Lubricant,,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-336,NON-SIL-400,,IN,sheet_sku_id,NON-25 / product code FHnimyjY,,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-337,NON-SIL-400,,IN,label_sku_code,NON-SIL-400 (clashes with Silver Cleaner code NON-SIL-200),,SRC-LBL2,2026-11-23,Ashutosh,contradicted,,site;ads;care,,NON-SIL-200 (Silver Cleaner),recheck when label artwork changes
+P-338,NON-SIL-400,,IN,ingredients_as_printed,"Silicone oil, light paraffin, water[-repellent?] and propellant (one word hidden on render)",,SRC-LBL2,2026-11-23,Ashutosh,draft,,site;ads;care,,,recheck when label artwork changes
+P-339,NON-SIL-400,,IN,directions_for_use,"Spray a thin, even coat from 20 cm. Wipe off any excess with a dry cloth.",,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-340,NON-SIL-400,,IN,caution_as_printed,"Makes floors slippery; keep off floors, steps and brakes. Pressurised can: keep away from heat, sun and flame. Do not pierce or burn. Keep out of reach of children.",,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-341,NON-SIL-400,,IN,suitable_for,"Hinges, locks, sliders and sliding parts",,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-342,NON-SIL-400,,IN,label_headline_and_description,"SMOOTH MOVES, NO SQUEAKS - Silicone spray that lubricates hinges, locks and sliding parts and leaves a protective, water-repellent film.",,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-343,NON-SIL-400,,IN,shelf_life,12 months from manufacturing date,,SRC-LBL2,2026-11-23,Ashutosh,approved,,site;ads;care,,,recheck when label artwork changes
+P-344,NON-SIL-400,label,IN,net_content,400 ml,,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-345,NON-SIL-400,label,IN,mrp,999 (template placeholder on label),INR,SRC-LBL2,2026-11-23,Ashutosh,contradicted,,site;ads;care,,C-021,recheck when label artwork changes
+P-346,NON-SIL-400,sheet,IN,size_in_sheet,Pricing Sheet: 400 ml; Catalogue Final net qty: 400 ml,,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-347,NON-SIL-400,sheet listing,IN,mrp,499.0,INR,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck weekly
+P-348,NON-SIL-400,sheet single bottle,IN,selling_price,299,INR,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck weekly
+P-349,NON-SIL-400,,IN,cost_price_all_in,149.5,INR,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck monthly
+P-350,NON-MPC-300,,IN,product_name,NoN Multipurpose Foam Cleaner,,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-351,NON-MPC-300,,IN,sheet_sku_id,NON-26 / product code qkv5nmQ3,,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-352,NON-MPC-300,,IN,ingredients_as_printed,"Fruit enzymes (citrus peel), plant-based cleansing agents, green apple fragrance, water and propellant",,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-353,NON-MPC-300,,IN,directions_for_use,"Shake well before use. Spray on the surface from 20 cm. Wait a few seconds, then wipe clean.",,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-354,NON-MPC-300,,IN,caution_as_printed,"Test on delicate surfaces first. Pressurised can: keep away from heat, sun and flame. Do not pierce or burn. Keep out of reach of children. Avoid contact with eyes; if it happens, rinse well with water.",,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-355,NON-MPC-300,,IN,suitable_for,"Counters, appliances, tiles, tables, bathroom",,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-356,NON-MPC-300,,IN,label_headline_and_description,"ONE CAN, WHOLE HOME - Active foam with bio-enzyme for everyday dirt on counters, appliances, tiles and tables.",,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-357,NON-MPC-300,,IN,shelf_life,12 months from manufacturing date,,SRC-LBL2,2026-11-23,Ashutosh,approved,,site;ads;care,,,recheck when label artwork changes
+P-358,NON-MPC-300,label,IN,net_content,270 ml,,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-359,NON-MPC-300,label,IN,mrp,999 (template placeholder on label),INR,SRC-LBL2,2026-11-23,Ashutosh,contradicted,,site;ads;care,,C-021,recheck when label artwork changes
+P-360,NON-MPC-300,sheet,IN,size_in_sheet,Pricing Sheet: 270 ml; Catalogue Final net qty: 270 ml,,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-361,NON-MPC-300,sheet listing,IN,mrp,449.0,INR,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck weekly
+P-362,NON-MPC-300,sheet single bottle,IN,selling_price,299,INR,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck weekly
+P-363,NON-MPC-300,,IN,cost_price_all_in,149.5,INR,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck monthly
+P-364,NON-FBC-450,,IN,product_name,NoN Fabric Coat,,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-365,NON-FBC-450,,IN,sheet_sku_id,NON-27 / product code JLu-kmhW,,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-366,NON-FBC-450,,IN,ingredients_as_printed,"PLACEHOLDER ON LABEL: ""[Generic ingredient line to be confirmed with final formula.]""",,SRC-LBL2,2026-11-23,Ashutosh,draft,,site;ads;care,,,recheck when label artwork changes
+P-367,NON-FBC-450,,IN,directions_for_use,"Test on a hidden area first. Spray evenly from 20 cm on clean, dry fabric. Let dry completely before use.",,SRC-LBL2,2026-11-23,Ashutosh,draft,,site;ads;care,,,recheck when label artwork changes
+P-368,NON-FBC-450,,IN,caution_as_printed,"Test on a hidden area first. Pressurised can: keep away from heat, sun and flame. Do not pierce or burn. Keep out of reach of children.",,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-369,NON-FBC-450,,IN,suitable_for,"Sofas, cushions, curtains and fabrics",,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-370,NON-FBC-450,,IN,label_headline_and_description,"PROTECT WHAT YOU LOVE - Protective spray for sofas, cushions and fabrics. PLACEHOLDER: ""[Product description to be confirmed with final formulation.]""",,SRC-LBL2,2026-11-23,Ashutosh,draft,,site;ads;care,,,recheck when label artwork changes
+P-371,NON-FBC-450,,IN,shelf_life,12 months from manufacturing date,,SRC-LBL2,2026-11-23,Ashutosh,approved,,site;ads;care,,,recheck when label artwork changes
+P-372,NON-FBC-450,label,IN,net_content,270 ml,,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-373,NON-FBC-450,label,IN,mrp,999 (template placeholder on label),INR,SRC-LBL2,2026-11-23,Ashutosh,contradicted,,site;ads;care,,C-021,recheck when label artwork changes
+P-374,NON-FBC-450,sheet,IN,size_in_sheet,Pricing Sheet: 270 ml; Catalogue Final net qty: 270 ml,,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-375,NON-FBC-450,sheet listing,IN,mrp,899.0,INR,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck weekly
+P-376,NON-FBC-450,sheet single bottle,IN,selling_price,499,INR,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck weekly
+P-377,NON-FBC-450,,IN,cost_price_all_in,249.5,INR,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck monthly
+P-378,NON-HLM-300,,IN,product_name,NoN Helmet Cleaner,,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-379,NON-HLM-300,,IN,sheet_sku_id,NON-28 / product code oY0AyEYu,,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-380,NON-HLM-300,,IN,ingredients_as_printed,"[first word hidden] cleansing agents, freshness booster, water and propellant",,SRC-LBL2,2026-11-23,Ashutosh,draft,,site;ads;care,,,recheck when label artwork changes
+P-381,NON-HLM-300,,IN,directions_for_use,"Shake well. Spray on shell, visor or padding from 15 cm. Wait 1 minute, wipe with a soft cloth. Let padding air-dry.",,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-382,NON-HLM-300,,IN,caution_as_printed,"Test visor coatings first. Pressurised can: keep away from heat, sun and flame. Do not pierce or burn. Keep out of reach of children. Avoid contact with eyes; if it happens, rinse well with water.",,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-383,NON-HLM-300,,IN,suitable_for,"Helmet shells, visors and padding",,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-384,NON-HLM-300,,IN,label_headline_and_description,"RIDE FRESH EVERY DAY - Foam cleaner that lifts sweat, dust and grime from helmet shells, visors and padding.",,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-385,NON-HLM-300,,IN,shelf_life,12 months from manufacturing date,,SRC-LBL2,2026-11-23,Ashutosh,approved,,site;ads;care,,,recheck when label artwork changes
+P-386,NON-HLM-300,label,IN,net_content,120 ml,,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-387,NON-HLM-300,label,IN,mrp,999 (template placeholder on label),INR,SRC-LBL2,2026-11-23,Ashutosh,contradicted,,site;ads;care,,C-021,recheck when label artwork changes
+P-388,NON-HLM-300,sheet,IN,size_in_sheet,Pricing Sheet: 400 ml; Catalogue Final net qty: 120 ml,,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-389,NON-HLM-300,sheet listing,IN,mrp,449.0,INR,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck weekly
+P-390,NON-HLM-300,sheet single bottle,IN,selling_price,299,INR,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck weekly
+P-391,NON-HLM-300,,IN,cost_price_all_in,149.5,INR,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck monthly
+P-392,NON-29,,IN,product_name,NoN Kitchen Degreaser,,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-393,NON-29,,IN,sheet_sku_id,NON-29 / product code B7Hu5DWW,,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-394,NON-29,,IN,ingredients_as_printed,"Fruit enzymes (citrus peel), plant-based cleansing agents, mild alkaline booster, sweet orange fragrance and water",,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-395,NON-29,,IN,directions_for_use,Spray on the greasy surface. Leave 1-2 minutes on heavy grease. Wipe with a damp cloth. Rinse food-contact surfaces with water.,,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-396,NON-29,,IN,caution_as_printed,"Use only on cool surfaces. Keep out of reach of children. Avoid contact with eyes; if it happens, rinse well with water.",,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-397,NON-29,,IN,suitable_for,"Gas hobs, chimneys, tiles, sinks",,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-398,NON-29,,IN,label_headline_and_description,"TOUGH ON GREASE, KIND TO YOUR KITCHEN - Bio-enzyme degreaser that breaks down oil and burnt-on grease on hobs, chimneys and tiles.",,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-399,NON-29,,IN,shelf_life,12 months from manufacturing date,,SRC-LBL2,2026-11-23,Ashutosh,approved,,site;ads;care,,,recheck when label artwork changes
+P-400,NON-29,label,IN,net_content,450 ml,,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-401,NON-29,label,IN,mrp,999 (template placeholder on label),INR,SRC-LBL2,2026-11-23,Ashutosh,contradicted,,site;ads;care,,C-021,recheck when label artwork changes
+P-402,NON-29,sheet,IN,size_in_sheet,Pricing Sheet: 450 ml; Catalogue Final net qty: 450 ml,,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-403,NON-29,sheet listing,IN,mrp,349.0,INR,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck weekly
+P-404,NON-29,sheet single bottle,IN,selling_price,249,INR,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck weekly
+P-405,NON-29,,IN,cost_price_all_in,124.5,INR,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck monthly
+P-406,NON-SNK-200,,IN,product_name,NoN Sneaker Foam Cleaner,,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-407,NON-SNK-200,,IN,sheet_sku_id,NON-30 / product code UF_QIbn-,,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-408,NON-SNK-200,,IN,ingredients_as_printed,"Fruit enzymes (citrus peel), protein-stain enzyme, plant-based cleansing agents and water",,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-409,NON-SNK-200,,IN,directions_for_use,Pump foam onto a damp brush. Scrub the shoe in small circles. Wipe with a damp cloth; air-dry away from sun.,,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-410,NON-SNK-200,,IN,caution_as_printed,"Test suede first. Keep out of reach of children. Avoid contact with eyes; if it happens, rinse well with water.",,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-411,NON-SNK-200,,IN,suitable_for,"Canvas, mesh, leather, soles",,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-412,NON-SNK-200,,IN,label_headline_and_description,"FRESH KICKS, EVERY DAY - Foaming cleaner with bio-enzyme and protease that lifts dirt and scuffs from sneakers.",,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-413,NON-SNK-200,,IN,shelf_life,12 months from manufacturing date,,SRC-LBL2,2026-11-23,Ashutosh,approved,,site;ads;care,,,recheck when label artwork changes
+P-414,NON-SNK-200,label,IN,net_content,200 ml,,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-415,NON-SNK-200,label,IN,mrp,999 (template placeholder on label),INR,SRC-LBL2,2026-11-23,Ashutosh,contradicted,,site;ads;care,,C-021,recheck when label artwork changes
+P-416,NON-SNK-200,sheet,IN,size_in_sheet,Pricing Sheet: 200 ml; Catalogue Final net qty: 200 ml,,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-417,NON-SNK-200,sheet listing,IN,mrp,399.0,INR,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck weekly
+P-418,NON-SNK-200,sheet single bottle,IN,selling_price,249,INR,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck weekly
+P-419,NON-SNK-200,,IN,cost_price_all_in,124.5,INR,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck monthly
+P-420,NON-31,,IN,product_name,NoN Glycerine Hand Wash,,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-421,NON-31,,IN,sheet_sku_id,NON-31 / product code 2ai5W-hS,,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-422,NON-31,,IN,ingredients_as_printed,"Mild cleansing agents, glycerine, fragrance and water",,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-423,NON-31,,IN,directions_for_use,Wet hands. Pump a small amount and lather for 20 seconds. Rinse well and dry.,,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-424,NON-31,,IN,caution_as_printed,"For external use only. Keep out of reach of children. Avoid contact with eyes; if it happens, rinse well with water.",,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-425,NON-31,,IN,suitable_for,"Family use, kitchen, bathroom",,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-426,NON-31,,IN,label_headline_and_description,"SOFT, CLEAN HANDS - Gentle liquid hand wash with glycerine for a rich lather and soft clean hands. LABEL SHOWS ""Cosmetic Mfg. Lic. No.: ___"" (blank).",,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-427,NON-31,,IN,shelf_life,12 months from manufacturing date,,SRC-LBL2,2026-11-23,Ashutosh,approved,,site;ads;care,,,recheck when label artwork changes
+P-428,NON-31,label,IN,net_content,500 ml,,SRC-LBL2,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-429,NON-31,label,IN,mrp,999 (template placeholder on label),INR,SRC-LBL2,2026-11-23,Ashutosh,contradicted,,site;ads;care,,C-021,recheck when label artwork changes
+P-430,NON-31,sheet,IN,size_in_sheet,Pricing Sheet: 500 ml; Catalogue Final net qty: 500 ml,,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck when label artwork changes
+P-431,NON-31,sheet listing,IN,mrp,299.0,INR,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck weekly
+P-432,NON-31,sheet single bottle,IN,selling_price,199,INR,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck weekly
+P-433,NON-31,,IN,cost_price_all_in,99.5,INR,SRC-SHEET,2026-11-23,Ashutosh,verified,,site;ads;care,,,recheck monthly

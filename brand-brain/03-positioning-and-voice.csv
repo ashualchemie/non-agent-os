@@ -1,0 +1,9 @@
+record_id,audience,message_level,approved_message,proof_ids,voice_rule,approved_example,prohibited_example,allowed_channels,source_id,owner,status
+V-001,all,brand,"Fruit-peel powered cleaners for Indian homes: tough on grime, with every ingredient listed in plain words",C-001;C-002,,,,site;ads;care,SRC-Q,Ashutosh,draft
+V-002,all,pillar,Fruit-peel enzyme power on real grime,C-001,"Use only for SKUs whose label lists fruit enzymes (Tap, Mandir, Kitchen Foam, Toilet)",Orange-peel enzyme foam for daily kitchen grease,"Fruit-peel power for repellents, Silver Cleaner or Rust Remover",site;ads,SRC-LBL,Ashutosh,draft
+V-003,all,pillar,Every ingredient in plain words,C-002,Quote the label ingredient line exactly,"Ingredients: fruit enzymes (citrus peel), fruit-derived acids, plant-based cleansing agents and water",Natural ingredients only,site;ads;care,SRC-LBL,Ashutosh,draft
+V-004,all,pillar,"Made for Indian homes: mandir, hard water, pests, kitchen grease",,,,,site;ads,SRC-Q,Ashutosh,draft
+V-005,all,voice,,,"Honest, warm, practical, desi (suggested, not confirmed)",,,all,SRC-Q,Ashutosh,draft
+V-006,all,voice,,,"Write 'Nature or Nothing' on first mention, 'NoN' after; never 'NON' or 'NQN'",Nature or Nothing (NoN) Mandir Cleaner,NON Mandir Cleaner,all,SRC-Q,Ashutosh,draft
+V-007,all,prohibited,,,Never use these until proven,,chemical free; 100% safe; non-toxic; safe for kids/pets; baby safe; septic safe; disinfectant; kills germs; biodegradable; organic; zero harmful emissions; competitor names; '50% OFF' unless MRP proven,all,SRC-Q,Ashutosh,draft
+V-008,pest buyers,prohibited,,,"Pest products: say 'helps keep away', never 'kills'; no mosquito or cockroach claims until CIB&RC status is known",Helps keep lizards away from walls and windows,Keeps mosquitoes and cockroaches away,all,SRC-LBL,Ashutosh,draft

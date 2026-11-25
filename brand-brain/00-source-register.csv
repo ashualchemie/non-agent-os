@@ -1,0 +1,10 @@
+source_id,description,date
+SRC-Q,"Brand Brain questionnaire (claude.ai doc), filled by NoN team",2026-11-17
+SRC-OWN,"Owner confirmation in chat (budget, approvals, margin floor, shelf life)",2026-11-20
+SRC-SITE,"getnon.in product and policy pages, scraped",2026-11-20
+SRC-LBL,"Back-label images on getnon.in product pages (design renders), transcribed",2026-11-20
+SRC-BRO,NoN 5-Fold Brochure v9 PRINT (PDF),2026-11-20
+SRC-META,"Meta Ads Manager campaign export, 22 Oct-20 Nov 2026 (ads/meta-campaigns-2026-10-22_2026-11-20.csv)",2026-11-21
+SRC-SHEET,"NoN Catalogue_Shopdeck.xlsx from Ashutosh (Pricing Sheet tab = all-in cost per product, Rs 100 logistics, Rs 30 commission per order; back-label links in column AC)",2026-11-22
+SRC-MKT,"60 Amazon and Flipkart customer reviews, Customer Reviews tab of NoN Catalogue_Shopdeck.xlsx; owner confirms original (22 Nov 2026)",2026-11-22
+SRC-LBL2,"Back-label images linked in Pricing Sheet column AC (ShopDeck S3), OCR-transcribed 23 Nov 2026; words hidden by the render are marked draft",2026-11-23
